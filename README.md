@@ -1,1 +1,2 @@
-# Hotel_Sayatem_Project
+# Simple-HotaleSayatem
+by ASP.net MVC
